@@ -1,6 +1,27 @@
 * {
-    color: red;
+    /* border: 1px solid rgb(0, 255, 34); */
 }
-ul {
-    color: green;
+a {
+    font-family: ;
 }
+h1 {
+    font-family: 'connection iii', Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#main-image {
+    text-align: center;
+}
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+ul li {
+    font-family: 'connection iii', Verdana, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+    
