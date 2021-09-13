@@ -1,11 +1,14 @@
+* {
+    /* border: 1px solid green; */
+}
 body {
     background-color:peachpuff;
 }
 a {
-    font-family: 'connection iii', Verdana, 'Times New Roman', Times, serif;
+    font-family: Verdana, 'Times New Roman', Times, serif;
 }
 h1 {
-    font-family: 'connection iii', Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
 #main-image {
@@ -19,7 +22,7 @@ main {
 }
 ul li {
     font-size: 20px;
-    font-weight: bold;
+
 
 }
     
